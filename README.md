@@ -1,5 +1,7 @@
 # morandi-theme
-## Morandi color palette
+Selected for unix ricing
+
+## [Morandi color palette](https://github.com/ThePatrickStar/morandi_color_palette)
 
 <table>
   <thead>
