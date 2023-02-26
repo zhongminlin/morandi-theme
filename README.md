@@ -107,12 +107,12 @@ Selected for unix ricing
 #b4c9c8
 #e2e2e0
 #8696a7
-#f0e3af
 #2c2e41
 #a27e7e
 #96a48b
+#f0e3af
 #9ca8b8
+#eee5f8
 #e0ebdb
 #fffaf4
-#eee5f8
 ```
