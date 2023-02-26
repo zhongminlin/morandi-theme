@@ -106,7 +106,6 @@ Selected for unix ricing
 #c9c0d3
 #b4c9c8
 #e2e2e0
-#8696a7
 #2c2e41
 #a27e7e
 #96a48b
