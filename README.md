@@ -97,7 +97,7 @@ Selected for unix ricing
 
 ## Recolor your favourite wallpaper with [repalette](https://github.com/ziap/repalette)
 
-`
+```
 #20243c
 #965455
 #7b8b6f
@@ -115,4 +115,4 @@ Selected for unix ricing
 #e0ebdb
 #fffaf4
 #eee5f8
-`
+```
