@@ -83,8 +83,8 @@ Selected for unix ricing
       <td>Bright Cyan</td>
     </tr>
     <tr>
-      <td><p align="center"><img src="https://via.placeholder.com/120/e2e2e0/000000?text=" width="26" height="26" align="center"></p></td>
-      <td>#e2e2e0</td>
+      <td><p align="center"><img src="https://via.placeholder.com/120/fdf9ee/000000?text=" width="26" height="26" align="center"></p></td>
+      <td>#fdf9ee</td>
       <td>White</td>
     </tr>
     <tr>
@@ -152,6 +152,7 @@ base0F = "#6b5152"
 #c9c0d3
 #b4c9c8
 #e2e2e0
+#fdf9ee
 #2c2e41
 #a27e7e
 #96a48b
