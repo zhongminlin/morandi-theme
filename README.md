@@ -134,7 +134,7 @@ base0E = "#a27e7e"
 base0F = "#6b5152"
 ```
 
-## Recolor your favourite wallpaper with [repalette](https://github.com/ziap/repalette)
+## Recolor your favourite wallpaper with [repalette](https://ziap.github.io/repalette)
 
 ```
 #05060a
