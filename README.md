@@ -1,7 +1,7 @@
 # morandi-theme
 Selected for unix ricing
 
-## [Morandi color palette](https://github.com/ThePatrickStar/morandi_color_palette)
+## [Morandi color palette](https://github.com/ThePatrickStar/morandi_color_palette/blob/master/color.md)
 
 <table>
   <thead>
