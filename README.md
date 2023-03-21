@@ -143,7 +143,8 @@ base0F = "#6b5152"
 #a6a6a8
 #dadad8
 #ececea
-#20243c
+#6b5152
+#20233c
 #965455
 #7b8b6f
 #edda95
