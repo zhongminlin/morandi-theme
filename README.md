@@ -137,7 +137,13 @@ base0F = "#6b5152"
 ## Recolor your favourite wallpaper with [repalette](https://github.com/ziap/repalette)
 
 ```
-#20233c
+#05060a
+#0e101b
+#939391
+#a6a6a8
+#dadad8
+#ececea
+#20243c
 #965455
 #7b8b6f
 #edda95
